@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mu7med
-- 👀 I’m interested in technology in general and specifically in DevOps - GitOps culture
-- 🌱 I’m currently learning DevOps tools
+- 👋 Hi, I’m Mu7med and as a DevOps Engineer, I love crafting automated solutions that simplify complex processes and improve efficiency. I have hands-on experience with various tools and technologies. I'm always up for a challenge and love to learn new things.
+- 👀 I’m interested in technology in general and specifically in DevOps - GitOps culture.
+- 🌱 I’m currently working on some DevOps exercises and various related technical topics.
 - 💞️ I’m looking to collaborate on GitOps eco-systems 
 - 📫 How to reach me please DM on mu7med@outlook.com
 
