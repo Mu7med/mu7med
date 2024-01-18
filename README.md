@@ -12,7 +12,7 @@
 
 
 
-<p align="center">
+
   https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
   https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white
   https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
@@ -20,7 +20,7 @@
   ![office_365](https://github.com/mu7med/mu7med/assets/20521095/7eff0d03-be68-411d-aa3b-aa33d64b946c)
   ![kubernetes](https://github.com/mu7med/mu7med/assets/20521095/3561fdc0-cbef-4303-8445-ab97becfe262)
   ![aws](https://github.com/mu7med/mu7med/assets/20521095/e8886b3e-0ac2-48fe-b628-876081d4add2)
-</p>
+
 https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white
 <!---
 Mu7med/Mu7med is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
