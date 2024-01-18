@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        #with:
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #CREDLY_USER: mu7med@outlook.com # optional, but default will use the same from github
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          CREDLY_USER: mu7med@outlook.com # optional, but default will use the same from github
           
