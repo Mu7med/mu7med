@@ -84,8 +84,8 @@
 </p>
 <img src=https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg>
 
-START_SECTION:badges
-END_SECTION:badges
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!-- <img src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg> website:http://monip.org -->
 <!---
