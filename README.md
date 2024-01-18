@@ -12,8 +12,11 @@
 
 
 
+<p align="center">
+  <!-- Badges go here>
 
-
+  https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white
+</p>
 
 <!---
 Mu7med/Mu7med is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
