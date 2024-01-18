@@ -1,5 +1,4 @@
 name: Update badges
-
 on:
   push:
   schedule:
@@ -12,6 +11,4 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.4.0
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
