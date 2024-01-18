@@ -1,5 +1,5 @@
-![docker](https://github.com/mu7med/mu7med/assets/20521095/4a9d2338-975a-46e8-8a85-555e1d9a64f4)![gcp](https://github.com/mu7med/mu7med/assets/20521095/e44748c6-5657-4236-aa1e-ec038ccb4602)<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+
+
 
 ### 👋 Hi, I’m Mu7med 
 - As a DevOps Engineer, I love crafting automated solutions that simplify complex processes and improve efficiency. I have hands-on experience with various tools and technologies. I'm always up for a challenge and love to learn new things.
@@ -16,14 +16,49 @@
   <a aria-label="Chat on WhatsApp" href="https://wa.me/971589163771">
     <img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
   </a>
-  <a href="#">
-    <img src=https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white>
-  </a>
   <a href="https://mu7medcom.slack.com/team/U06EHNQSD0C">
     <img src=https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white>
   </a>
   <a href="#">
     <img src=https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)>
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black>
+  </a>
+  <a href="#">
+    <img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white>
+  </a>
+  <a href="#">
+    <img src=https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white>
+  </a>
+  <a href="#">
+    <img src=https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black>
+  </a>
+</p>
+<p align="center">
+  <a href="#">
+    <img src=https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white>
+  </a>
+  <a href="#">
+    <img src=https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white>
+  </a>
+  <a href="#">
+    <img src=	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white>
+  </a>
+  <a href="#">
+    <img src=https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white>
+  </a>
+  <a href="#">
+    <img src=https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white>
+  </a>
+  <a href="#">
+    <img src=https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white>
+  </a>
+  <a href="#">
+    <img src=https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white>
   </a>
 </p>
 <p align="center">
@@ -47,7 +82,12 @@
   ![go](https://github.com/mu7med/mu7med/assets/20521095/09a06a53-b4b7-4de5-a767-4e4e24f64dec)
   
 </p>
+<img src=https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg>
 
+START_SECTION:badges
+END_SECTION:badges
+
+<!-- <img src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg> website:http://monip.org -->
 <!---
 Mu7med/Mu7med is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
