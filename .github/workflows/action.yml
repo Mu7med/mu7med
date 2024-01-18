@@ -11,8 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: pemtajo/badge-readme@2.4.0
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          CREDLY_USER: mu7med@outlook.com # optional, but default will use the same from github
           
