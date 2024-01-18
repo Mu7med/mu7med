@@ -10,15 +10,9 @@ jobs:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
-      - name: Credly importer
-        uses: michaelcontento/credly-import-action@v1.0.2
-        with:
-          # The user of whom we want to grab the infos
-          name: Mohammed
-
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          CREDLY_USER: mu7med@outlook.com # optional, but default will use the same from github
+        #with:
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #CREDLY_USER: mu7med@outlook.com # optional, but default will use the same from github
           
