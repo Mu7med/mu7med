@@ -28,7 +28,7 @@
 </p>
 <p align="center">
   <a href="#">
-    <img src=https://github.com/mu7med/dependencies/blob/4f3cc45926d378e3f12762346c90fc6f11798d06/my_badges/aws.svg>
+    <img src="https://github.com/mu7med/dependencies/blob/4f3cc45926d378e3f12762346c90fc6f11798d06/my_badges/aws.svg" alt="AWS" style="vertical-align:top margin:6px 4px">
   </a>
   ![office_365](https://github.com/mu7med/mu7med/assets/20521095/7eff0d03-be68-411d-aa3b-aa33d64b946c)
   ![kubernetes](https://github.com/mu7med/mu7med/assets/20521095/3561fdc0-cbef-4303-8445-ab97becfe262)
