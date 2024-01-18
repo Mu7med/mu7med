@@ -61,6 +61,7 @@
     <img src=https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white>
   </a>
 </p>
+
 <p align="center">
 
   ![docker](https://github.com/mu7med/mu7med/assets/20521095/6e2f624d-9912-4343-b5b2-9f9c3dfb7be6)
@@ -69,12 +70,22 @@
   ![chrome](https://github.com/mu7med/mu7med/assets/20521095/098c70b6-5824-41c0-aea6-68050dd7be8c)
   ![bash](https://github.com/mu7med/mu7med/assets/20521095/671bd737-d1ac-463d-a54f-56686f82cf42)
   ![azure](https://github.com/mu7med/mu7med/assets/20521095/789d0d75-cb48-4eff-9096-e62e0349041b)
+
+</p>
+
+<p align="center">
+  
   ![aws](https://github.com/mu7med/mu7med/assets/20521095/4f49dd4c-983f-406d-a946-8a8cfdaf402b)
   ![vmware](https://github.com/mu7med/mu7med/assets/20521095/dff48194-38c8-42dc-b88a-33941eeb47e2)
   ![visualstudio_code](https://github.com/mu7med/mu7med/assets/20521095/eb4b4488-9442-4382-a093-65fd15edde54)
   ![tools](https://github.com/mu7med/mu7med/assets/20521095/9bc97c6a-4f4e-4813-8f82-1882bd711edb)
   ![security](https://github.com/mu7med/mu7med/assets/20521095/0a2c0cae-cf15-43ba-9db8-b80aae492a83)
   ![python](https://github.com/mu7med/mu7med/assets/20521095/215c2294-c862-43f0-8c57-4617f2dad223)
+
+</p>
+
+<p align="center">
+  
   ![office_365](https://github.com/mu7med/mu7med/assets/20521095/4b9f9e6e-d892-4c08-a86c-4d11de8e18ae)
   ![linkedin](https://github.com/mu7med/mu7med/assets/20521095/43de4637-a04e-45a5-bbad-a777703e005b)
   ![kubernetes](https://github.com/mu7med/mu7med/assets/20521095/b1ba5a8b-f175-43c6-b049-5538342af124)
@@ -82,6 +93,7 @@
   ![go](https://github.com/mu7med/mu7med/assets/20521095/09a06a53-b4b7-4de5-a767-4e4e24f64dec)
   
 </p>
+
 <img src=https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg>
 
 <!--START_SECTION:badges-->
