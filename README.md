@@ -16,7 +16,7 @@
   <a aria-label="Chat on WhatsApp" href="https://wa.me/971589163771">
     <img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
   </a>
-  <a href="GitHub Actions">
+  <a href="#">
     <img src=https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white>
   </a>
   <a href="https://mu7medcom.slack.com/team/U06EHNQSD0C">
@@ -27,6 +27,9 @@
   </a>
 </p>
 <p align="center">
+  <a href="#">
+    <img src=https://github.com/mu7med/dependencies/blob/4f3cc45926d378e3f12762346c90fc6f11798d06/my_badges/aws.svg>
+  </a>
   ![office_365](https://github.com/mu7med/mu7med/assets/20521095/7eff0d03-be68-411d-aa3b-aa33d64b946c)
   ![kubernetes](https://github.com/mu7med/mu7med/assets/20521095/3561fdc0-cbef-4303-8445-ab97becfe262)
   ![aws](https://github.com/mu7med/mu7med/assets/20521095/e8886b3e-0ac2-48fe-b628-876081d4add2)
