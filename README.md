@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Mu7med)](https://git.io/typing-svg)
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "#" width = 50px></picture> **About me**
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=300&color=EBE3B5&multiline=true&repeat=false&random=false&width=1234&height=150&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+As+a+DevOps+Engineer%2C+I+love+crafting+automated+solutions+that+simplify+complex+processes+and+improve+efficiency.;&nbsp;&nbsp;&nbsp;I+have+hands-on+experience+with+various+tools+and+technologies.+and+I'm+always+up+for+a+challenge+and+love+to+learn+new+things.;%F0%9F%91%80+I%E2%80%99m+interested+in+technology+in+general+and+specifically+in+DevOps+-+GitOps+culture.;%F0%9F%8C%B1+I%E2%80%99m+currently+working+on+some+DevOps+exercises+and+various+related+technical+topics.;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+GitOps+eco-systems+projects.;%F0%9F%93%AB+How+to+reach+me+please+DM+on+mu7med%40outlook.com)](https://mu7med.com)
 
 <p align="left">
