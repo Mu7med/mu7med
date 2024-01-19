@@ -1,25 +1,15 @@
 
-
-
-### 👋 Hi, I’m Mu7med 
-- As a DevOps Engineer, I love crafting automated solutions that simplify complex processes and improve efficiency. I have hands-on experience with various tools and technologies. I'm always up for a challenge and love to learn new things.
-- 👀 I’m interested in technology in general and specifically in DevOps - GitOps culture.
-- 🌱 I’m currently working on some DevOps exercises and various related technical topics.
-- 💞️ I’m looking to collaborate on GitOps eco-systems 
-- 📫 How to reach me please DM on mu7med@outlook.com
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Mu7med)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=300&color=EBE3B5&multiline=true&repeat=false&random=false&width=1234&height=150&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+As+a+DevOps+Engineer%2C+I+love+crafting+automated+solutions+that+simplify+complex+processes+and+improve+efficiency.;&nbsp;&nbsp;&nbsp;I+have+hands-on+experience+with+various+tools+and+technologies.+and+I'm+always+up+for+a+challenge+and+love+to+learn+new+things.;%F0%9F%91%80+I%E2%80%99m+interested+in+technology+in+general+and+specifically+in+DevOps+-+GitOps+culture.;%F0%9F%8C%B1+I%E2%80%99m+currently+working+on+some+DevOps+exercises+and+various+related+technical+topics.;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+GitOps+eco-systems+projects.;%F0%9F%93%AB+How+to+reach+me+please+DM+on+mu7med%40outlook.com)](https://git.io/typing-svg)
 
 <p align="left">
+<h3 align="left">Connect with me:&nbsp;&nbsp; </h3>
   <a aria-label="linkedin" alt=linkedin href="https://www.linkedin.com/in/mohammed--abdullah/">
     <img src="https://github.com/mu7med/mu7med/assets/20521095/43de4637-a04e-45a5-bbad-a777703e005b">
   </a>
 </p>
 
 <p align="center">
-  <a aria-label="Chat on WhatsApp" alt="Chat on WhatsApp" href="https://wa.me/971589163771">
-    <img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
-  </a>
   <a href="https://mu7medcom.slack.com/team/U06EHNQSD0C">
     <img src=https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white>
   </a>
@@ -104,9 +94,28 @@
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
-<!-- <img src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg> website:http://monip.org -->
+<img src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg> https://mu7med.com
 <!---
 Mu7med/Mu7med is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+<h3 align="center">A passionate DevOps Engineer from Sudan</h3>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mu7med&label=Profile%20views&color=0e75b6&style=flat" alt="mu7med" /> </p> -->
+
+<p align="left">
+  <a href="https://github.com/mu7med/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mu7med&theme=darkhub&rank=-?" alt="mu7med" />
+  </a>
+</p>
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mu7med&show_icons=true&locale=en&layout=compact" alt="mu7med" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mu7med&show_icons=true&locale=en" alt="mu7med" /></p>
