@@ -100,6 +100,6 @@
   <img src=https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg>
 </p>
 
-<p>
+<p style="font-size:7px">
   <img src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg> <font size="3"> <a href="url"> https://mu7med.com </a> </font>
 </p>
