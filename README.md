@@ -101,5 +101,5 @@
 </p>
 
 <p>
-  <img src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg>  <font size="3"><a href="url">https://mu7med.com</a></font>
+  <img src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg> <font size="3"> <a href="url"> https://mu7med.com </a> </font>
 </p>
