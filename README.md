@@ -90,7 +90,7 @@
 <h3 align="left">&nbsp;</h>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mu7med&show_icons=true&locale=en&layout=compact" alt="mu7med" /> &nbsp;&nbsp;
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mu7med&show_icons=true&locale=en&layout=compact" alt="mu7med" />&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mu7med&show_icons=true&locale=en" alt="mu7med" />
 </p>
 
@@ -99,6 +99,6 @@
 <p align="left">
   <img src=https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg>
 </p>
-<p style="font-size:20px;">
+<p>
   <img src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg> <a href="url">https://mu7med.com</a>
 </p>
