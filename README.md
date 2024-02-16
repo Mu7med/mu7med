@@ -1,16 +1,16 @@
-
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Mu7med)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Mu7med)](https://git.io/typing-svg)
 
 ## **About me**
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2000&pause=300&color=EBE3B5&multiline=true&repeat=false&random=false&width=1350&height=150&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+As+a+DevOps+Engineer%2C+I+love+crafting+automated+solutions+that+simplify+complex+processes+and+improve+efficiency.;&nbsp;&nbsp;&nbsp;I+have+hands-on+experience+with+various+tools+and+technologies.+and+I'm+always+up+for+a+challenge+and+love+to+learn+new+things.;%F0%9F%91%80+I%E2%80%99m+interested+in+technology+in+general+and+specifically+in+DevOps+-+GitOps+culture.;%F0%9F%8C%B1+I%E2%80%99m+currently+working+on+some+DevOps+exercises+and+various+related+technical+topics.;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+GitOps+eco-systems+projects.;%F0%9F%93%AB+How+to+reach+me+please+DM+on+mu7med%40outlook.com)](https://mu7med.com)
 
 <p align="left">
-<h3 align="left">Connect with me:&nbsp;&nbsp; </h3>
+<h3 align="left">Connect with me:&nbsp;&nbsp;
+  
   <a aria-label="linkedin" alt=linkedin href="https://www.linkedin.com/in/mohammed--abdullah/">
     <img src="https://github.com/mu7med/mu7med/assets/20521095/43de4637-a04e-45a5-bbad-a777703e005b">
   </a>
-
-##
+</h3>
+<h3 align="left">&nbsp;</h>
 
   <a href="https://mu7medcom.slack.com/team/U06EHNQSD0C">
     <img src=https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white>
@@ -49,8 +49,9 @@
     <img src=https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white>
   </a>
 </p>
+<h3 align="left">&nbsp;</h>
 
-<p align="center">
+<p>
 
   ![kubernetes](https://github.com/mu7med/mu7med/assets/20521095/b1ba5a8b-f175-43c6-b049-5538342af124)
   ![docker](https://github.com/mu7med/mu7med/assets/20521095/6e2f624d-9912-4343-b5b2-9f9c3dfb7be6)
@@ -60,7 +61,7 @@
 
 </p>
 
-<p align="center">
+<p>
 
   ![visualstudio_code](https://github.com/mu7med/mu7med/assets/20521095/eb4b4488-9442-4382-a093-65fd15edde54)
   ![bash](https://github.com/mu7med/mu7med/assets/20521095/671bd737-d1ac-463d-a54f-56686f82cf42)
@@ -70,28 +71,15 @@
   
 </p>
 
-<p align="center">
+<p>
   
   ![vmware](https://github.com/mu7med/mu7med/assets/20521095/dff48194-38c8-42dc-b88a-33941eeb47e2)
   ![cisco](https://github.com/mu7med/mu7med/assets/20521095/dc06922f-bc7c-472f-a7f4-2469182b2639)
   ![security](https://github.com/mu7med/mu7med/assets/20521095/0a2c0cae-cf15-43ba-9db8-b80aae492a83)
 
-  ![office_365](https://github.com/mu7med/mu7med/assets/20521095/4b9f9e6e-d892-4c08-a86c-4d11de8e18ae)
-  ![chrome](https://github.com/mu7med/mu7med/assets/20521095/098c70b6-5824-41c0-aea6-68050dd7be8c)
-
 </p>
 
-
-
-
-<!---
-Mu7med/Mu7med is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h3 align="center">A passionate DevOps Engineer from Sudan</h3>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mu7med&label=Profile%20views&color=0e75b6&style=flat" alt="mu7med" /> </p> -->
+<h3 align="left">&nbsp;</h>
 
 <p align="left">
   <a href="https://github.com/mu7med/github-profile-trophy">
@@ -99,22 +87,18 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+<h3 align="left">&nbsp;</h>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mu7med&show_icons=true&locale=en&layout=compact" alt="mu7med" /> &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mu7med&show_icons=true&locale=en" alt="mu7med" />
+</p>
 
+<h1 align="left">&nbsp;</h>
 
-<h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mu7med&show_icons=true&locale=en&layout=compact" alt="mu7med" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mu7med&show_icons=true&locale=en" alt="mu7med" /></p>
-
-###
-
-
-<img src=https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg>
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
-<img src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg> https://mu7med.com
+<p align="left">
+  <img src=https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg>
+</p>
+<p style="font-size:20px;">
+  <img src=https://img.shields.io/website-up-down-green-red/http/monip.org.svg> <a href="url">https://mu7med.com</a>
+</p>
