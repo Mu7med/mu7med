@@ -5,14 +5,14 @@
 
 <p align="left">
 <h3 align="left">Connect with me:&nbsp;&nbsp;
-  
+
   <a aria-label="linkedin" alt=linkedin href="https://www.linkedin.com/in/mohammed--abdullah/">
     <img src="https://github.com/mu7med/mu7med/assets/20521095/43de4637-a04e-45a5-bbad-a777703e005b">
   </a>
 </h3>
 <h3 align="left">&nbsp;</h>
 
-  <a href="https://mu7medcom.slack.com/team/U06EHNQSD0C">
+  <!-- <a href="https://mu7medcom.slack.com/team/U06EHNQSD0C">
     <img src=https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white>
   </a>
   <a href="#">
@@ -47,11 +47,19 @@
   </a>
   <a href="#">
     <img src=https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white>
-  </a>
+  </a> -->
 </p>
-<h3 align="left">&nbsp;</h>
+<!-- <h3 align="left">&nbsp;</h> -->
 
-<p>
+
+  <a href=#>
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,wasm,nginx,postman,terraform,ansible,jenkins,prometheus,grafana" />
+    <p>&nbsp;</p>
+    <img src="https://skillicons.dev/icons?i=githubactions,github,aws,gcp,azure,linux,bash,py,go,vim,vscode" />
+  </a>
+
+
+<!-- <p>
 
   ![kubernetes](https://github.com/mu7med/mu7med/assets/20521095/b1ba5a8b-f175-43c6-b049-5538342af124)
   ![docker](https://github.com/mu7med/mu7med/assets/20521095/6e2f624d-9912-4343-b5b2-9f9c3dfb7be6)
@@ -77,7 +85,7 @@
   ![cisco](https://github.com/mu7med/mu7med/assets/20521095/dc06922f-bc7c-472f-a7f4-2469182b2639)
   ![security](https://github.com/mu7med/mu7med/assets/20521095/0a2c0cae-cf15-43ba-9db8-b80aae492a83)
 
-</p>
+</p> -->
 
 <h3 align="left">&nbsp;</h>
 
