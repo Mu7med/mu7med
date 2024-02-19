@@ -83,7 +83,7 @@
 
 <p align="left">
   <a href="https://github.com/mu7med/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mu7med&theme=darkhub&rank=-?" alt="mu7med" />
+    <img src="https://github-profile-trophy.vercel.app/?username=mu7med&no-frame=true&theme=darkhub&rank=-?" alt="mu7med" />
   </a>
 </p>
 
